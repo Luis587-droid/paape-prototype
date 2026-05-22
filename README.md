@@ -23,3 +23,6 @@ The PAAPE framework demonstrates how Web 3.0 users can authenticate to decentral
    Ensure Node.js (v22+) is installed, then run:
    ```bash
    npm install
+2. **Run the Proof of Concept:**
+   ```bash
+   node engine.js
